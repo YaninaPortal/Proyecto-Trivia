@@ -1,0 +1,88 @@
+body{
+	background-color:#5487E1;
+    /*background-image:url("imagen/FondoIni.jpg");*/
+    background-repeat:no-repeat;
+
+ background-size:cover;
+}
+/**************************************/
+#bloque1{
+padding-left: 10px;
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+color: white;
+
+margin:0px;
+
+/*background:cover;*/
+/*background-image: url("imagen/FondoLibro.jpg");*/
+
+width:1360px;
+height:50px;
+
+
+}
+
+#palabra1{
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+#palabra2{
+	font-size: 1.2em;
+}
+
+#palabra3{
+	font-size: 1.2em;
+}
+
+#bloque1 td{
+	width:450px;
+}
+
+#user{
+        border-width: thin;
+		border-style: solid;
+		border-color: orange;	
+        font-size: 1.1em;
+		text-align: center;
+		}
+
+
+/*************BLOQUE3*********************/
+
+#bloque3{
+padding-left: 10px;
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+color: white;
+
+margin:0px;
+width:1360px;
+height:500px;
+
+
+background-image: url("imagen/FondoIni.jpg");
+background:cover;
+
+font-size:1.4em;
+}
+
+#bloque3 td{
+	width:450px;
+}
+
+#palabra3{
+	font-weight: bold;
+	font-size: 2em;
+	color:#FFFF00;
+	text-align:center;
+}
+
+body{
+	color:#DAF7A6;
+}
+
+/*****************************************/
